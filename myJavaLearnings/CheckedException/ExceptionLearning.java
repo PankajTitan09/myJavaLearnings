@@ -1,4 +1,4 @@
-package myJavaLearnings.CheckedException.CheckedException;
+package myJavaLearnings.CheckedException;   
 
 //custom checked exception
 class AgeNotValidException extends Exception {
