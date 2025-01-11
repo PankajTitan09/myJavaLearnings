@@ -1,4 +1,4 @@
-package CheckedException;
+package myJavaLearnings.CheckedException;
 
  class InsufficientFundException extends Exception{
     public InsufficientFundException(String message){
